@@ -1,1 +1,1 @@
-# Lab8web-php-
+# Praktikum 8: PHP dan Database MySQL
